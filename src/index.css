@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+table td,
+table th {
+  vertical-align: middle;
+}
+@media (max-width: 555px) {
+  h2 {
+    font-size: 24px;
+  }
+
+  .table {
+    font-size: 14px;
+  }
+}

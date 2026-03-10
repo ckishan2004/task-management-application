@@ -1,0 +1,13 @@
+.app-bg {
+  background: #f4f7fb;
+}
+
+.app-card {
+  border-radius: 18px;
+}
+
+.completed-task {
+  text-decoration: line-through;
+  color: gray;
+}
+
